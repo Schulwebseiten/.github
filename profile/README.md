@@ -11,7 +11,7 @@ Webseiten sind teuer, da sie häufig durch eine externe Agentur erstellt werden.
 Goethe-Gymnasium in Berlin Lichterfelde:\
 https://goethe-gymnasium-lichterfelde.de/ 
 
-Bis zur Veröffentlichung des finalen Produkts ist allerdings noch einiges zu tun, aber wir arbeiten eng mit unserer Schule, dem Goethe-Gymnasium in Lichterfelde, zusammen, um die Software bestmöglich auf ihre Bedürfnisse zuzuschneiden.
+Bis zur Veröffentlichung des finalen Produkts ist allerdings noch einiges zu tun, aber wir arbeiten eng mit unserer Schule, dem Goethe-Gymnasium, zusammen, um die Software bestmöglich auf ihre Bedürfnisse zuzuschneiden.
 
 Falls Sie Fragen haben oder mehr über unser Produkt erfahren möchten, kontaktieren Sie uns gerne unter folgender E-Mail-Adresse:\
 info@schulwebseiten.de

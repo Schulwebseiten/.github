@@ -14,5 +14,5 @@ Bis zur Veröffentlichung des finalen Produkts ist allerdings noch einiges zu tu
 
 Falls Sie Fragen haben oder mehr über unser Produkt erfahren möchten, kontaktieren Sie uns gerne unter folgender E-Mail-Adresse: info@schulwebseiten.de
 
-Mit freundlichen Grüßen,
+Mit freundlichen Grüßen,\
 Martin Mosemann und Mateo Meillon.

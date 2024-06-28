@@ -8,11 +8,13 @@ Neben normalen Artikeln kann auch die Startseite, einschließlich Bilder, vollst
 ## Bei der Anschaffung einer neuen Schulwebseite entstehen hohe Kosten:
 Webseiten sind teuer, da sie häufig durch eine externe Agentur erstellt werden. Falls sie vom Informatikfachbereich erstellt werden, entstehen zwar keine hohen direkten Kosten, aber die Webseite hat eine sehr lange Entwicklungszeit. Unser Produkt löst dieses Problem. Dadurch, dass wir ein Produkt als Baukasten für alle Schulen zur Verfügung stellen, sind neben anderen Vorteilen auch unsere Entwicklungskosten pro Schule geringer, als wenn wir für jede Schule eine einzelne Seite entwickeln würden. Außerdem planen wir, verschiedene Zahlungsmodelle einzuführen, die besser auf das jährliche Schulbudget zugeschnitten sind. Außerdem sinken bei einer zentral bereitgestellten Webseite die Serverkosten pro Schule.
 ### Sehen Sie jetzt unsere Software in Aktion:
+Goethe-Gymnasium in Berlin Lichterfelde:\
 https://goethe-gymnasium-lichterfelde.de/ 
 
 Bis zur Veröffentlichung des finalen Produkts ist allerdings noch einiges zu tun, aber wir arbeiten eng mit unserer Schule, dem Goethe-Gymnasium in Lichterfelde, zusammen, um die Software bestmöglich auf ihre Bedürfnisse zuzuschneiden.
 
-Falls Sie Fragen haben oder mehr über unser Produkt erfahren möchten, kontaktieren Sie uns gerne unter folgender E-Mail-Adresse: info@schulwebseiten.de
+Falls Sie Fragen haben oder mehr über unser Produkt erfahren möchten, kontaktieren Sie uns gerne unter folgender E-Mail-Adresse:\
+info@schulwebseiten.de
 
 Mit freundlichen Grüßen,\
 Martin Mosemann und Mateo Meillon.
